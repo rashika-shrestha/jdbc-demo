@@ -19,5 +19,7 @@ public class DeleteDemo {
         } catch (SQLException | ClassNotFoundException e) {
             e.printStackTrace();
         }
+
+
     }
 }
