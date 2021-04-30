@@ -1,4 +1,4 @@
-package com.rashi.jdbcdemo.basic;
+package com.rashi.jdbcdemo.st;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
